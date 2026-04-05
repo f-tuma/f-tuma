@@ -1,28 +1,10 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Flamendrin&fontSize=30&fontAlign=50&fontAlignY=40&rotate=0&stroke=-&desc=Mentally%20unstable&descSize=20&descAlign=50&descAlignY=70&textBg=false&theme=cobalt"  />
-</div>
+# Filip Tůma
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=f-tuma.f-tuma&left_text=Stalkers"  />
 </div>
-
-###
-
-<h1 align="left">For no one knows me less, then me my self...</h1>
-
-###
-
-<p align="left">.... Maybe something here later on...</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">also something here later on I Guess</p>
 
 ###
 
