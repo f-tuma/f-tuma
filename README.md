@@ -1,7 +1,5 @@
 # Hi, I'm Filip Tůma
 
-| ˈfɪlɪp ˈtuːma or Philip TooMu(ch) with the end silent. |
-
 I recently dived into the world of programming. I have background in design, but I found my self liking the problem solving and design of architectures more appealing.
 
 - ✒️ I love my self some strongly typed languages. (Typescript is my main tool at the moment.)
